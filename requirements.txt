@@ -60,5 +60,4 @@ wheel==0.44.0
 xlrd==1.2.0
 XlsxWriter==3.2.2
 gunicorn==21.2.0
-Flask @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b6zka5i2cn/croot/flask_1716545886197/work
 Flask==2.2.5
