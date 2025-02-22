@@ -62,3 +62,4 @@ XlsxWriter==3.2.2
 gunicorn==21.2.0
 Flask==2.2.5
 scikit-learn==1.4.1.post1
+gunicorn==21.2.0
